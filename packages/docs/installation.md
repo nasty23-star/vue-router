@@ -93,7 +93,7 @@ Vue Router поддерживает как сборки в формате **_ES-
 
 `@vue/devtools-api` нужен только при использовании сборки Vue Router для разработки. Его (импорт `@vue/devtools-api`) можно удалить при использовании продакшен-сборки `vue-router.esm-browser.prod.js`.
 
-### Использование глобальной сборки %{#using the global build}%
+### Использование глобальной сборки %{#using-the-global-build}%
 
 ```html-vue
 <script src="https://unpkg.com/vue@{{ $frontmatter.packageVersions?.vue }}/dist/vue.global.js"></script>
